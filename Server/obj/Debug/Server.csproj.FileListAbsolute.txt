@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\bin\Debug\Server.exe.config
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\bin\Debug\Server.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\bin\Debug\Server.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Interop.WMPLib.dll
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Server\obj\Debug\Server.csproj.ResolveComReference.cache

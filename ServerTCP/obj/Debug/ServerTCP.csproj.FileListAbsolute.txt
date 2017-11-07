@@ -1,0 +1,9 @@
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\bin\Debug\ServerTCP.exe.config
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\bin\Debug\ServerTCP.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\bin\Debug\ServerTCP.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ServerTCP\obj\Debug\ServerTCP.Server.resources

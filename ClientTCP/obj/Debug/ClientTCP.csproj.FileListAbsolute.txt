@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\bin\Debug\ClientTCP.exe.config
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\bin\Debug\ClientTCP.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\bin\Debug\ClientTCP.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\obj\Debug\ClientTCP.Client.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\bin\Debug\ServerTCP.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\ClientTCP\bin\Debug\ServerTCP.pdb

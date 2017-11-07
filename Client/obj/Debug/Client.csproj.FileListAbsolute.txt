@@ -1,0 +1,11 @@
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\bin\Debug\Client.exe.config
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\bin\Debug\Client.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\bin\Debug\Client.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\bin\Debug\Server.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\bin\Debug\Server.pdb
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.Form1.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.exe
+D:\hoc tap\C#\BaiTap\Winform\ChatLAN\Server\Client\obj\Debug\Client.pdb
